@@ -1,0 +1,4 @@
+// Phase 1 declares the future provider only. No models, migrations, or database are created.
+datasource db {
+  provider = "postgresql"
+}
